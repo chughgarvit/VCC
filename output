@@ -1,0 +1,16 @@
+IMAGE          CREATED       CREATED BY                                      SIZE      COMMENT
+5f461224e460   2 years ago   /bin/sh -c #(nop)  ENTRYPOINT ["java" "-jar"…   0B        
+<missing>      2 years ago   /bin/sh -c #(nop) ADD file:f7cc891a1cd791f1c…   14.2MB    
+<missing>      2 years ago   /bin/sh -c #(nop)  ARG JAR_FILE=target/scala…   0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  EXPOSE 8080                  0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  VOLUME [/tmp]                0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  LABEL maintainer=Mayank K…   0B        
+<missing>      2 years ago   /bin/sh -c set -x  && apk add --no-cache   o…   99.3MB    
+<missing>      2 years ago   /bin/sh -c #(nop)  ENV JAVA_ALPINE_VERSION=8…   0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  ENV JAVA_VERSION=8u212       0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  ENV PATH=/usr/local/sbin:…   0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  ENV JAVA_HOME=/usr/lib/jv…   0B        
+<missing>      2 years ago   /bin/sh -c {   echo '#!/bin/sh';   echo 'set…   87B       
+<missing>      2 years ago   /bin/sh -c #(nop)  ENV LANG=C.UTF-8             0B        
+<missing>      2 years ago   /bin/sh -c #(nop)  CMD ["/bin/sh"]              0B        
+<missing>      2 years ago   /bin/sh -c #(nop) ADD file:a86aea1f3a7d68f6a…   5.53MB    
